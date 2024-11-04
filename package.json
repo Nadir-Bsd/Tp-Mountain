@@ -1,0 +1,23 @@
+{
+  "name": "the-mountain-tailwind-tp",
+  "version": "1.0.0",
+  "description": "Vous allez reproduire une maquette en utilisant tailwind",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:css": "tailwindcss build -i ./css/style.css -o ./css/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nadir-Bsd/Tp-Mountain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nadir-Bsd/Tp-Mountain/issues"
+  },
+  "homepage": "https://github.com/Nadir-Bsd/Tp-Mountain#readme",
+  "dependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
