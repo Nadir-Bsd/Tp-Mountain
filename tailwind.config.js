@@ -9,6 +9,9 @@ module.exports = {
       lg: '1024px',
     },
     extend: {
+      backgroundImage: {
+        'mountain': "url('../images/bg_header.jpg')",
+      },
       colors: {
         primary: {
           orange: "hsl(35, 77%, 62%)",
