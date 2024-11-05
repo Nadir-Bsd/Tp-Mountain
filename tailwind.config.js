@@ -11,6 +11,9 @@ module.exports = {
     extend: {
       backgroundImage: {
         'mountain': "url('../images/bg_header.jpg')",
+        'nuage': "url('../images/bg_nuage.jpg')",
+        'photo': "url('../images/bg_appareil_photo.jpg')",
+        'contact': "url('../images/bg_newsletter.jpg')",
       },
       colors: {
         primary: {
